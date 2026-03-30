@@ -2,14 +2,14 @@
 
 **Help [translate](TRANSLATIONS.md) this guide!**
 
-# The System Design Primer
+#The System Design Primer
 
 <p align="center">
   <img src="images/jj3A5N8.png">
   <br/>
 </p>
 
-## Motivation
+#Motivation
 
 > Learn how to design large-scale systems.
 >
